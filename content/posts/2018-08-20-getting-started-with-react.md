@@ -79,8 +79,6 @@ Let's start by making a basic `index.html` file. We're going to load in three CD
 
   <body>
     <div id="root"></div>
-  </body>
-</html>
 
     <script type="text/babel">
       // React code will go here
@@ -153,8 +151,6 @@ index.html
 
   <body>
     <div id="root"></div>
-  </body>
-</html>
 
     <script type="text/babel">
       class App extends React.Component {
